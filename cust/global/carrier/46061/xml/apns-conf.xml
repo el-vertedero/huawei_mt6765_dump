@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="internet" mcc="460" mnc="61" apn="ipv6" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" protocol="IPV4V6" roaming_protocol="IP"/>
+  <apn carrier="MMS" mcc="460" mnc="61" apn="hwmobile" user="" server="" password="" proxy="10.1.1.2" port="" mmsproxy="192.168.111.32" mmsport="8080" mmsc="http://192.168.111.14:37080/was" type="mms" protocol="IP" roaming_protocol="IP"/>
+  <apn carrier="ims" mcc="460" mnc="61" apn="ims" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="ims" protocol="IPV4V6" roaming_protocol="IPV4V6"/>
+  <apn carrier="VoWifi Xcap" mcc="460" mnc="61" apn="ims.com" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" bearer_bitmask="18" protocol="IP" roaming_protocol="IP"/>
+</apns>

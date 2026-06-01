@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="17359375ad69bdedf20d272c80445922">
+  <dict>
+    <!--2019-03-15 16:57:32.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2019-03-15 16:57:32.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2020-09-08 17:55:26.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9</string>
+    <!--2020-09-08 17:55:26.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9</string>
+    <!--2019-03-15 16:57:32.000-->
+    <int key="num_match">9</int>
+    <!--2020-04-09 18:15:25.000-->
+    <bool key="pre_plmn_reg_vowifi">true</bool>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_carrier">MTN</string>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_number">132</string>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

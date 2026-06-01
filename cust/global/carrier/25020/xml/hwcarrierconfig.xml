@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2d43485c29c169eca3f9d35ee1ce2741">
+  <dict>
+    <!--2019-03-15 16:41:22.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-06-11 20:38:00.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-05-13 14:40:54.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:41:22.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:41:22.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc020.mcc250.pub.3gppnetwork.org</string>
+    <!--2020-08-31 10:21:21.000-->
+    <int key="utNafPort">8085</int>
+    <!--2020-08-31 10:21:21.000-->
+    <string key="utParamsCfg">3:1,15:1,21:1</string>
+  </dict>
+</config>

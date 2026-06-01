@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Moldcell" mcc="259" mnc="02" apn="internet" user="" server="http://wap.moldcell.md" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Moldcell WAP" mcc="259" mnc="02" apn="wap" user="" server="http://wap.moldcell.md" password="" proxy="10.0.10.10" port="9401" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Moldcell" mcc="259" mnc="02" apn="mms" user="" server="" password="" proxy="" port="" mmsproxy="10.0.10.10" mmsport="9401" mmsc="http://mms.moldcell.md/cmmsc/post" type="mms"/>
+  <apn carrier="hos" mcc="259" mnc="02" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

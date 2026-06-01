@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="4a8bff3317965b5a27abe5f8550df7d4">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">26098</string>
+        <string key="sim_mccmnc">26098</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Play</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">26006</string>
+        <string key="sim_mccmnc">26098</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Play</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">26001</string>
+        <string key="sim_mccmnc">26098</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Play (Plus)</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">26002</string>
+        <string key="sim_mccmnc">26098</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Play (T-Mobile)</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">26003</string>
+        <string key="sim_mccmnc">26098</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Play (Orange)</string>
+        <string key="plmn">####</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

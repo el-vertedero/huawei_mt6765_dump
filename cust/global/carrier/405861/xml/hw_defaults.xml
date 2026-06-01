@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2020-03-06 19:12:26.000-->
+  <string hw_predefined_eap_sim="JioPrivateNet:EAP_AKA"/>
+</resources>

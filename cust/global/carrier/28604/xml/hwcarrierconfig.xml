@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9e0c12e48cd53075f163d6fcf2f23aab">
+  <dict>
+    <!--2020-12-12 10:02:03.000-->
+    <bool key="carrier_cs_show_calltrans_bool">false</bool>
+    <!--2019-12-30 17:00:04.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+  </dict>
+</config>

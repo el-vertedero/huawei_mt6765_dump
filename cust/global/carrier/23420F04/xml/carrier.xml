@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="25f2ab387dc5b590d581f7385a4f124e">
+  <dict>
+    <!--2020-12-29 16:35:41.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9,3,2</string>
+    <!--2020-12-29 16:35:41.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2020-12-23 10:06:50.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-12-23 10:06:50.000-->
+    <int key="num_match">10</int>
+    <!--2020-12-31 14:56:39.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2020-12-23 10:06:50.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2020-12-23 10:06:50.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+  </dict>
+</config>

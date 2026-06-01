@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6b7dc961b3f11895cee79a87a6f56f4a">
+  <dict>
+    <!--2020-08-10 11:26:28.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2020-08-14 16:07:23.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2020-08-10 11:26:28.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2020-08-11 14:58:46.000-->
+    <string key="carrier_volte_hd_icon_flag">00101010</string>
+    <!--2019-03-15 16:53:21.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-08-10 11:26:28.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2020-08-10 11:26:28.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2020-08-14 16:07:23.000-->
+    <int key="utBsfPort">80</int>
+    <!--2020-08-10 11:26:28.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2020-08-10 11:26:28.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2020-08-10 11:26:28.000-->
+    <int key="utUseApn">1</int>
+    <!--2020-09-09 11:58:05.000-->
+    <bool key="vilte_data_is_metered_bool">false</bool>
+  </dict>
+</config>

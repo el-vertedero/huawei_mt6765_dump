@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="27294b0ba65068525ac835e258a6d783">
+  <dict>
+    <!--2021-04-15 16:28:48.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2021-04-15 16:28:48.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2021-04-15 16:28:48.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2021-04-13 14:12:47.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2021-04-15 16:28:48.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2021-04-15 16:28:48.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2021-04-15 16:28:48.000-->
+    <int key="utBsfPort">80</int>
+    <!--2021-04-15 16:28:48.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2021-04-15 16:28:48.000-->
+    <string key="utNafSrvAddr">xcap.mnc360.mcc732.pub.3gppnetwork.org</string>
+    <!--2021-04-15 16:28:48.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

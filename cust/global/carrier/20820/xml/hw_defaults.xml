@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:28:02.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2019-03-15 16:28:02.000-->
+  <string settings.global.hw_nfc_gsma="true"/>
+  <!--2020-11-18 10:44:53.000-->
+  <string settings.global.hw_vvm_filter_on="true"/>
+</resources>

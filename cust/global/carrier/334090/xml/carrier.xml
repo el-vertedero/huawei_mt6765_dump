@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7068047638bc64a4c11f2d24e3535fb9">
+  <dict>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="hide_sepcial_apn_form_list">location.attmex.mx</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2019-03-15 16:14:54.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2020-11-02 17:19:29.000-->
+    <string key="hw_networkname_normal">all,HSDPA:H;HSUPA:H;HSPA:H;HSPA+:H+;LTE:4G;CA:4G+;MiMo:4G+;CAMiMo:4G+;256QAM:4G+</string>
+    <!--2019-03-15 16:14:54.000-->
+    <int key="max_message_size">614400</int>
+    <!--2019-03-15 16:14:54.000-->
+    <int key="num_match">7</int>
+    <!--2020-08-06 14:55:09.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:14:54.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:14:54.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-04-26 11:49:59.000-->
+    <int key="sms_center_editable_for_slot">0</int>
+    <!--2020-06-01 11:10:59.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="voicemail_carrier">Nextel</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2019-03-15 16:14:54.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

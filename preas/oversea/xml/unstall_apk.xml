@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+    <apk>
+        /system/product/app/LatinImeGoogle.apk
+    </apk>
+    <restoreapk>
+        /system/priv-app/Mms.apk;
+    </restoreapk>
+</tag>

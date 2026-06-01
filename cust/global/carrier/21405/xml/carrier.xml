@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="456682a3da5704a7954ea924b3fcd3f0">
+  <dict>
+    <!--2020-07-07 10:59:02.000-->
+    <int key="default_always_allow_mms_by_mccmnc">0</int>
+    <!--2020-12-14 11:21:18.000-->
+    <bool key="hw_remove_3g_only">true</bool>
+    <!--2020-11-16 14:16:18.000-->
+    <int key="vm_prioritymode">3</int>
+    <!--2020-12-04 14:19:38.000-->
+    <string key="voicemail_carrier">TME</string>
+    <!--2020-12-04 14:19:38.000-->
+    <string key="voicemail_number">22123</string>
+    <!--2020-12-04 14:19:38.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

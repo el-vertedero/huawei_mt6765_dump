@@ -1,0 +1,1 @@
+bootopt=64S3,32N2,64N2 androidboot.selinux=enforcing unmovable_isolate1=2:256M,3:312M,4:348M buildvariant=user

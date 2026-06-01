@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="29b83a68eb933f6fcf594d515415f150">
+  <dict>
+    <!--2019-03-15 16:29:41.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:29:41.000-->
+    <int key="num_match">7</int>
+    <!--2020-08-20 14:30:18.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:29:41.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2020-06-04 11:36:25.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2020-06-04 11:36:25.000-->
+    <string key="virtualnet_operatorname">VERY</string>
+    <!--2020-06-04 11:36:25.000-->
+    <string key="voicemail_carrier">VERY</string>
+    <!--2019-03-15 16:29:41.000-->
+    <string key="voicemail_number">4200</string>
+    <!--2019-03-15 16:29:41.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

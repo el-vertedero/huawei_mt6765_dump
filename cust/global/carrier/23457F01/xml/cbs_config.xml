@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="7399d19b26c6272f4d2a719e0e43ee91">
+  <dict>
+    <array key="cmas_presidential_alerts_channels_range_strings">
+      <string>0x1112:rat=gsm, emergency=true, title=en||Government Alert</string>
+      <string>0x111F:rat=gsm, emergency=true, title=en||Government Alert</string>
+    </array>
+    <array key="cmas_alert_extreme_channels_range_strings">
+      <string>0x1113-0x1114:rat=gsm, emergency=true, title=en||Emergency Alert: extreme</string>
+      <string>0x1120-0x1121:rat=gsm, emergency=true, title=en||Emergency Alert: extreme</string>
+    </array>
+    <array key="cmas_alerts_severe_range_strings">
+      <string>0x1115-0x111A:rat=gsm, emergency=true, title=en||Emergency Alert: severe</string>
+      <string>0x1122-0x1127:rat=gsm, emergency=true, title=en||Emergency Alert: severe</string>
+    </array>
+    <array key="cmas_amber_alerts_channels_range_strings"/>
+    <array key="required_monthly_test_range_strings"/>
+    <array key="exercise_alert_range_strings"/>
+    <array key="operator_defined_alert_range_strings">
+      <string>0x111C:rat=gsm, emergency=true, title=en||Required Monthly Test</string>
+      <string>0x111D:rat=gsm, emergency=true, title=en||Emergency alert (exercise)</string>
+      <string>0x1129:rat=gsm, emergency=true, title=en||Required Monthly Test</string>
+      <string>0x112A:rat=gsm, emergency=true, title=en||Emergency alert (exercise)</string>
+    </array>
+    <array key="etws_alerts_range_strings"/>
+    <array key="etws_test_alerts_range_strings"/>
+    <array key="emergency_alerts_channels_range_strings"/>
+    <array key="additional_cbs_channels_strings"/>
+  </dict>
+</config>

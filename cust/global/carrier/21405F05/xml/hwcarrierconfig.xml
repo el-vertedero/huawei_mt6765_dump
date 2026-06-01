@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9f710bb4e9bbba92e990f7db056f3cb6">
+  <dict>
+    <!--2020-12-08 19:03:02.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2021-04-03 15:18:57.000-->
+    <string key="hide_violence_number_from_mcc">34-016,34-900018018</string>
+  </dict>
+</config>

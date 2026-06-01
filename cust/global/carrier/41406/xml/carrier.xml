@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d0c1cb281d3d37283158453cba84c3c3">
+  <dict>
+    <!--2021-02-20 10:36:19.000-->
+    <string key="hw_networkname_normal">all,CA:4.5G</string>
+    <!--2019-03-15 15:54:01.000-->
+    <int key="num_match">8</int>
+  </dict>
+</config>

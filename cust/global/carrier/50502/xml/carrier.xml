@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="11a5d7b582cfbb21fd46222823720f56">
+  <dict>
+    <!--2019-03-15 16:42:56.000-->
+    <string key="hw_networkname_normal">all,CA:4G</string>
+    <!--2020-09-04 18:13:03.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2019-03-15 16:42:56.000-->
+    <string key="hw_replace_country_code">+61</string>
+    <!--2019-03-15 16:42:56.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:42:56.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:42:56.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:42:56.000-->
+    <string key="virtualnet_operatorname">YES OPTUS</string>
+    <!--2019-05-22 16:15:23.000-->
+    <string key="voicemail_carrier">Optus</string>
+    <!--2019-05-22 16:15:23.000-->
+    <string key="voicemail_number">321</string>
+    <!--2019-05-22 16:15:23.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

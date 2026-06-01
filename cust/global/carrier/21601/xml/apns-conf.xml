@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Telenor Online" mcc="216" mnc="01" apn="online" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" protocol="IPV6" roaming_protocol="IP" productScope="phoneOnly"/>
+  <apn carrier="Telenor Internet" mcc="216" mnc="01" apn="net" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" protocol="IP" roaming_protocol="IP" productScope="tabletOnly"/>
+  <apn carrier="MMS" mcc="216" mnc="01" apn="mms" user="" server="" password="" proxy="" port="" mmsproxy="84.225.255.1" mmsport="8080" mmsc="http://mmsc.telenor.hu/" type="mms" productScope="phoneOnly"/>
+  <apn carrier="Telenor Hungary UT" mcc="216" mnc="01" apn="online" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP" roaming_protocol="IP" productScope="phoneOnly"/>
+  <apn carrier="ims" mcc="216" mnc="01" apn="ims" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="ims" protocol="IPV6" roaming_protocol="IPV6" productScope="phoneOnly"/>
+</apns>

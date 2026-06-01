@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+  <allow-in-power-save package="com.huawei.aml"/>
+  <allow-in-power-save package="com.altice.android.myapps"/>
+  <allow-in-power-save package="com.altice.android.myapps.hms"/>
+  <allow-in-power-save package="com.sfr.android.sfrjeux.hms"/>
+</permissions>

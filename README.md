@@ -1,0 +1,14 @@
+# a53_a53_32-user 10 QP1A.190711.020 eng.root.20220510.210043 dev-keys
+- manufacturer: alps
+- platform: mt6765
+- codename: MT6765
+- flavor: user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 152eff5eea8acad5
+- tags: release-keys
+- fingerprint: alps/full_k62v1_64_mex_a32/k62v1_64_mex_a32:10/QP1A.190711.020/152eff5eea8acad5:user/dev-keys
+- is_ab: false
+- brand: Huawei
+- branch: a53_a53_32-user-10-QP1A.190711.020-eng.root.20220510.210043-dev-keys
+- repo: huawei_mt6765_dump

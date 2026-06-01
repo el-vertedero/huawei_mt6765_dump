@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6f95f143b6469c04a6691641156575f8">
+  <dict>
+    <!--2020-05-06 15:52:33.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2020-08-03 15:25:05.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2020-12-07 14:34:07.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2020-05-07 11:24:04.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:40:27.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-05-06 15:52:33.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2020-05-06 15:52:33.000-->
+    <int key="utBsfPort">8091</int>
+    <!--2020-08-03 15:25:05.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc017.mcc502.pub.3gppnetwork.org</string>
+    <!--2020-05-06 15:52:33.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2020-05-06 15:52:33.000-->
+    <int key="utNafPort">8090</int>
+    <!--2020-08-03 15:25:05.000-->
+    <string key="utParamsCfg">8:1</string>
+    <!--2020-08-03 15:25:05.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

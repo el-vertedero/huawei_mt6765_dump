@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="137be25c71705e2231423dd2ee4e3cfa">
+  <dict>
+    <!--2020-02-25 17:33:07.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2020-03-02 14:10:03.000-->
+    <int key="max_message_size">2097152</int>
+    <!--2019-03-15 15:59:50.000-->
+    <int key="num_match">10</int>
+    <!--2020-02-26 15:02:37.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-03-15 15:59:50.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

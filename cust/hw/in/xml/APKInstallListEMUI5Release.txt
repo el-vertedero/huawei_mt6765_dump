@@ -1,0 +1,2 @@
+/cust/app/HwSARLevel/HwSARLevel.apk
+/cust/app/IndiaCalendar/IndiaCalendar.apk

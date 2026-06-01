@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Play Internet" mcc="260" mnc="98" apn="internet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Play MMS" mcc="260" mnc="98" apn="mms" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mmsc.play.pl/mms/wapenc" type="mms"/>
+  <apn carrier="XCAP" mcc="260" mnc="98" apn="XCAP" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap"/>
+</apns>

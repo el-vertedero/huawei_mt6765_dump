@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c4fb667e6c8e826f6245a5fe80dd4b0f">
+  <dict>
+    <!--2020-06-08 17:25:49.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:12:32.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:12:32.000-->
+    <bool key="pre_apn_unable">true</bool>
+  </dict>
+</config>

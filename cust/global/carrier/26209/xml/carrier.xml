@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ea6235f343a59736ec1927dfe2819d72">
+  <dict>
+    <!--2019-03-15 16:30:47.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2020-04-26 11:24:07.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2020-04-26 11:24:07.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:30:47.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+  </dict>
+</config>

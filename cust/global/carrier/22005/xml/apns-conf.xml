@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="A1 SRB Internet" mcc="220" mnc="05" apn="internet" user="internet" server="" password="internet" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="A1 SRB MMS" mcc="220" mnc="05" apn="mms" user="mms" server="" password="mms" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mms.a1.rs" type="mms"/>
+  <apn carrier="XCAP" mcc="220" mnc="05" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

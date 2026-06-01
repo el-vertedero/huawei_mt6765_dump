@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="HKIA-5G" mcc="454" mnc="30" apn="hkia-5g" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mms.hk.chinamobile.com/mms" type="default,mms" authtype="3"/>
+</apns>

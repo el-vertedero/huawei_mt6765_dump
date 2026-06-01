@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f7d1bd08c9e3362efcf61ad35ff1d713">
+  <dict>
+    <!--2019-03-15 16:09:23.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:09:23.000-->
+    <string key="voicemail_carrier">SingTel</string>
+    <!--2019-03-15 16:09:23.000-->
+    <string key="voicemail_number">1389</string>
+    <!--2019-03-15 16:09:23.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

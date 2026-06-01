@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="09f0c6ecc174263b2ad90ef0488bb020">
+  <dict>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="IPsecSaLifeTime">43200</int>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">14400</int>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">14400</int>
+    <!--2020-09-22 14:13:07.000-->
+    <int key="Ikev2NatRtcTimerMaxCnt">200</int>
+    <!--2020-09-22 14:13:07.000-->
+    <int key="Ikev2NatRtcTimerSec">60</int>
+    <!--2020-09-22 14:13:07.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="Ikev2SaLifeTime">43200</int>
+    <!--2020-09-22 14:13:07.000-->
+    <int key="Ikev2SupportImeiImeisv">1</int>
+    <!--2019-07-09 19:50:52.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2020-09-21 20:42:33.000-->
+    <bool key="carrier_default_volte_switch_on_bool">false</bool>
+    <!--2021-04-06 10:02:35.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="carrier_default_wfc_ims_mode_int">3</int>
+    <!--2019-07-18 19:58:33.000-->
+    <string key="carrier_volte_hd_icon_flag">00010101</string>
+    <!--2019-07-12 08:53:21.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-07-11 15:02:19.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2019-03-15 16:07:08.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2019-03-15 16:07:08.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2019-03-15 16:07:08.000-->
+    <int key="maxMessageSize">614400</int>
+    <!--2019-07-09 19:50:52.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2020-09-21 20:42:33.000-->
+    <int key="utBearType">3</int>
+    <!--2019-07-09 19:50:52.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-07-11 15:02:19.000-->
+    <string key="vowifiHplmnListItem">20826, epdg.epc.mnc026.mcc208.pub.3gppnetwork.org</string>
+    <!--2019-07-11 15:02:19.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2019-07-11 15:02:19.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2019-07-11 15:02:19.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2020-09-22 14:13:07.000-->
+    <bool key="vowifiSupportFirmwareKA">true</bool>
+    <!--2019-03-15 16:07:08.000-->
+    <string key="vvm_type_string">""</string>
+    <!--2019-07-11 15:02:19.000-->
+    <string key="wfc_format_wifi_string">%1$s Wifi</string>
+    <!--2019-07-11 15:02:19.000-->
+    <string key="wfc_spn_string">Appels</string>
+  </dict>
+</config>
